@@ -67,24 +67,22 @@ Upload image and get the results in json format in the browser.
 ```
 
 ### References
-```sh
 
 * [Flask hosting options](../http://flask.pocoo.org/docs/1.0/deploying/)
 
-Guide to setup Nginx and uWGSI
-2. [link](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
 
-Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker
-3. [https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76](https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76)
+* [Guide to setup Nginx and uWGSI](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
 
-Convert laptop/Desktop to host
-4. [https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9](https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9)
 
-5. To deploy model on AWS just configure Nginx and uWGSI and open port from instance settings.
+* [Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker](https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76)
 
-API Design Guide
-6. [https://www.fullstackpython.com/api-creation.html, https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask](https://www.fullstackpython.com/api-creation.html, https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
-Outh setup Guide
-7. [https://github.com/miguelgrinberg/REST-auth](https://github.com/miguelgrinberg/REST-auth), [https://flask-httpauth.readthedocs.io/en/latest/](https://flask-httpauth.readthedocs.io/en/latest/),[https://realpython.com/token-based-authentication-with-flask/](https://realpython.com/token-based-authentication-with-flask/)
+* [Convert laptop/Desktop to host](https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9)
+
+* To deploy model on AWS just configure Nginx and uWGSI and open port from instance settings.
+
+
+* [creating-apis-with-python-and-flask](https://www.fullstackpython.com/api-creation.html) and [api-creation](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+
+* [REST-auth](https://github.com/miguelgrinberg/REST-auth), [readthedocslatest](https://flask-httpauth.readthedocs.io/en/latest/),[token-based-authentication-with-flask](https://realpython.com/token-based-authentication-with-flask/)
 

@@ -69,7 +69,7 @@ Upload image and get the results in json format in the browser.
 ### References
 ```sh
 Flask hosting options
-1. [http://flask.pocoo.org/docs/1.0/deploying/](http://flask.pocoo.org/docs/1.0/deploying/)
+1. [http://flask.pocoo.org/docs/1.0/deploying/](../http://flask.pocoo.org/docs/1.0/deploying/)
 
 Guide to setup Nginx and uWGSI
 2. [https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)

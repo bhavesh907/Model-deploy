@@ -69,22 +69,22 @@ Upload image and get the results in json format in the browser.
 ### References
 ```sh
 Flask hosting options
-1. http://flask.pocoo.org/docs/1.0/deploying/
+1. [http://flask.pocoo.org/docs/1.0/deploying/]
 
 Guide to setup Nginx and uWGSI
-2. https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
+2. [https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846]
 
 Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker
-3. https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
+3. [https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76]
 
 Convert laptop/Desktop to host
-4. https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9
+4. [https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9]
 
 5. To deploy model on AWS just configure Nginx and uWGSI and open port from instance settings.
 
 API Design Guide
-6. https://www.fullstackpython.com/api-creation.html, https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
+6. [https://www.fullstackpython.com/api-creation.html, https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask]
 
 Outh setup Guide
-7. https://github.com/miguelgrinberg/REST-auth, https://flask-httpauth.readthedocs.io/en/latest/, https://realpython.com/token-based-authentication-with-flask/
+7. [https://github.com/miguelgrinberg/REST-auth], [https://flask-httpauth.readthedocs.io/en/latest/],[https://realpython.com/token-based-authentication-with-flask/]
 
